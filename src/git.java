@@ -2,7 +2,7 @@
 public class git {
 
 	public static void main(String[] args) {
-		m();
+		m()
       
 	}
 public static void m()
