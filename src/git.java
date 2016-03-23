@@ -2,8 +2,11 @@
 public class git {
 
 	public static void main(String[] args) {
-		
-         System.out.print("helloworld");
+		m();
+      
 	}
-
+public static void m()
+{
+	   System.out.print("helloworld");
+}
 }
